@@ -1,0 +1,9 @@
+env/
+hospital/__pycache__
+hospital/.migrations_sd
+hospitalmanagement/__pycache__
+hospital/migrations/__pycache__
+static/profile_pic/DoctorProfilePic/nftg1.png
+static/profile_pic/PatientProfilePic/logo.png
+droplet
+droplet.pub
